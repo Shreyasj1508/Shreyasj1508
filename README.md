@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas Jaiswal</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
-- 🔭 I’m currently working on [DEV-TINDER](https://github.com/Shreyasj1508/DEV-TINDER)
+- 🔭 I’m currently working on [DEV-TINDER](https://github.com/ShreyasAlmamate/BuildBasket)
 
 - 🌱 I’m currently learning **ML**
 
