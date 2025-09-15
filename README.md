@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas Jaiswal</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
-- 🔭 I’m currently working on [DEV-TINDER](https://github.com/ShreyasAlmamate/BuildBasket)
+- 🔭 I’m currently working on [Build Basket](https://github.com/ShreyasAlmamate/BuildBasket)
 
 - 🌱 I’m currently learning **ML**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shreyasjaiswal1515@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1JhhuhnqJgHKvhmjYQkh0vs_aYP1IYUiX](https://drive.google.com/drive/folders/1JhhuhnqJgHKvhmjYQkh0vs_aYP1IYUiX)
+- 📄 Know about my experiences [My-Resume](https://drive.google.com/drive/folders/1JhhuhnqJgHKvhmjYQkh0vs_aYP1IYUiX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
