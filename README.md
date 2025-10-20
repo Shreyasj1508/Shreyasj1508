@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreyas Jaiswal</h1>
-<h3 align="center">A passionate MERN-Stack developer from India</h3>
+<h3 align="center">A passionate MERN-Stack developer / Competitive Programmer from India</h3>
 
-- 🔭 I’m currently working on [BUILD-BASKET (private for now )](https://github.com/ShreyasAlmamate/BuildBasket)
+- 🔭 I’m currently working on [BUILD-BASKET](https://github.com/Shreyasj1508/BuildBasket)
 
 - 🌱 I’m currently learning **ML**
 
-- 👯 I’m looking to collaborate on [DEV-TINDER-UI](https://github.com/Shreyasj1508/DEV-TINDER-UI)
+- 👯 I’m looking to collaborate on [BUILD-BASKET](https://github.com/Shreyasj1508/BuildBasket)
 
 - 📫 How to reach me **shreyasjaiswal1515@gmail.com**
 
