@@ -102,19 +102,16 @@ const shreyas = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyasj1508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasj1508&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=shreyasj1508&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasj1508&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasj1508&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shreyasj1508&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shreyasj1508&theme=tokyonight&hide_border=true)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Snake
 
