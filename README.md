@@ -101,17 +101,25 @@ const shreyas = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyasj1508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=shreyasj1508&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyasj1508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=shreyasj1508&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  
 </div>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasj1508&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasj1508&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasj1508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasj1508&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  
 </div>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyasj1508&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=shreyasj1508&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<div align="center">
 
 ## 🐍 Contribution Snake
 
