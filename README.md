@@ -105,9 +105,9 @@ const shreyas = {
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasj1508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="70%" src="https://github-profile-trophy.vercel.app/?username=shreyasj1508&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasj1508&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
