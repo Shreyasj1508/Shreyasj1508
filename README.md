@@ -113,11 +113,12 @@ const shreyas = {
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasj1508&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
-## 🐍 Contribution Snake
+<h2 align="center">🐍 My Contribution Snake</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shreyasj1508/shreyasj1508/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shreyasj1508/shreyasj1508/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
