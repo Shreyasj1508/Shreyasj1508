@@ -98,24 +98,15 @@ const shreyas = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
-
-<p align="center">
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shreyasj1508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasj1508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
+</div>
+<div align="center">
   <img width="70%" src="https://github-profile-trophy.vercel.app/?username=shreyasj1508&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasj1508&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shreyasj1508&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+</div>
+<br/>
+<div align="center">
 ## 🐍 Contribution Snake
 
 <div align="center">
