@@ -103,7 +103,7 @@ const shreyas = {
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyasj1508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=shreyasj1508&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=shreyasj1508&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
