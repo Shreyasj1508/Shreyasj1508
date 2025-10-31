@@ -116,11 +116,20 @@ const shreyas = {
 <h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/shreyasj1508/shreyasj1508/output/github-contribution-grid-snake-dark.svg" 
-    alt="Contribution Snake Animation" 
-  />
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      srcset="https://raw.githubusercontent.com/shreyasj1508/shreyasj1508/output/github-contribution-grid-snake-dark.svg" 
+      media="(prefers-color-scheme: dark)"
+    >
+    <!-- Light mode (fallback) -->
+    <img 
+      src="https://raw.githubusercontent.com/shreyasj1508/shreyasj1508/output/github-contribution-grid-snake.svg" 
+      alt="Contribution Snake Animation" 
+    />
+  </picture>
 </p>
+
 
 
 
