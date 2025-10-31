@@ -116,8 +116,12 @@ const shreyas = {
 <h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreyasj1508/shreyasj1508/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img 
+    src="https://raw.githubusercontent.com/shreyasj1508/shreyasj1508/output/github-contribution-grid-snake-dark.svg" 
+    alt="Contribution Snake Animation" 
+  />
 </p>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
