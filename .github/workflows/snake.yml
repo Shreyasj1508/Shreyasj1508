@@ -1,42 +1,5 @@
-name: Generate Snake
+name: Generate Snake on: schedule: - cron: "0 */12 * * *" workflow_dispatch: push: branches: - main permissions: contents: write
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+jobs: build: runs-on: ubuntu-latest timeout-minutes: 10 steps: - name: Checkout code uses: actions/checkout@v3 - name: Generate snake animation uses: Platane/snk/svg-only@v3 with:
 
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-      
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: shreyasj1508
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Slow down snake speed
-        run: |
-          sed -i 's/animation: snake [0-9]*s/animation: snake 120s/' dist/github-contribution-grid-snake.svg
-          sed -i 's/animation: snake [0-9]*s/animation: snake 120s/' dist/github-contribution-grid-snake-dark.svg
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+github_user_name: shreyasj1508 outputs: | dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg?palette=github-dark - name: Push snake to output branch uses: crazy-max/ghaction-github-pages@v3.1.0 with: target_branch: output build_dir: dist env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
