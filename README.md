@@ -35,7 +35,6 @@ const shreyas = {
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 Currently working on **[BUILD-BASKET](https://github.com/Shreyasj1508/BuildBasket)**
 - 🌱 Learning **Machine Learning & AI**
 - 👯 Open to collaborate on **Full Stack Projects**
 - 💬 Ask me about **MERN, DSA, Competitive Programming**
