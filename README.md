@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyas%20Jaiswal&fontSize=42&fontAlignY=32&desc=MERN%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyas%20Jaiswal&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20LLM%20Engineer%20|%20Competitive%20Programmer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Problem+Solver+%F0%9F%A7%A9;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8AFF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;LLM+%26+RAG+Builder+%F0%9F%A7%A0;1100%2B+DSA+Problems+Solved+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
   
 </div>
 
@@ -21,19 +21,46 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24px"> About Me
 
 ```javascript
 const shreyas = {
     location: "India 🇮🇳",
-    role: "MERN Stack Developer",
-    interests: ["Competitive Programming", "Web Development", "Machine Learning"],
-    currentFocus: "Building scalable web applications",
+    education: "B.Tech CSE (2022–2026)",
+    role: "Full Stack Developer",
+    experience: "Full Stack Developer Intern @ AlmaMete Info Tech (Aug 2025 – Nov 2025)",
+    specialization: ["MERN Stack", "LLMs", "RAG Systems","Competitive Programming"],
+    achievements: "1100+ DSA problems solved",
+    currentFocus: "Building scalable web systems & AI-powered applications",
     funFact: "I debug with console.log() 😅"
 };
+
 ```
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 💼 Built a MERN-based B2B marketplace  
+- 📈 Improved API performance by 20%  
+- 🤖 Working with LangChain, Hugging Face, FAISS, RAG and ML  
+- 🏆 CodeChef 3★ (Max 1607) | LeetCode 1642  
+- 🌍 Under 1000 Global Rank multiple times  
+- 📫 Reach me at shreyasjaiswal1515@gmail.com  
+
+
+- 📄 Check my **[Resume](https://drive.google.com/drive/folders/1JhhuhnqJgHKvhmjYQkh0vs_aYP1IYUiX)**
+- ⚡ Fun fact: **Code is like humor. When you have to explain it, it's bad!**
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect With Me
+
+<div align="center"> -->
+
+
+
+<!-- <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 Learning **Machine Learning & AI**
 - 👯 Open to collaborate on **Full Stack Projects**
@@ -48,8 +75,7 @@ const shreyas = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect With Me
 
-<div align="center">
-  
+<div align="center"> -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-jaiswal1508)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreyas1508_)
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/shreyas1508_)
