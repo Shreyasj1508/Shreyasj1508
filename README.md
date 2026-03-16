@@ -42,7 +42,7 @@ const shreyas = {
 - 💼 Built a MERN-based B2B marketplace  
 - 📈 Improved API performance by 20%  
 - 🤖 Working with LangChain, Hugging Face, FAISS, RAG and ML  
-- 🏆 CodeChef 3★ (Max 1607) | LeetCode 1642  
+- 🏆 CodeChef 3★ (Max 1633) | LeetCode 1869  
 - 🌍 Under 1000 Global Rank multiple times  
 - 📫 Reach me at shreyasjaiswal1515@gmail.com  
 
