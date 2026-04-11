@@ -47,7 +47,7 @@ const shreyas = {
 - 📫 Reach me at shreyasjaiswal1515@gmail.com  
 
 
-- 📄 Check my **[Resume](https://drive.google.com/drive/folders/1JhhuhnqJgHKvhmjYQkh0vs_aYP1IYUiX)**
+- 📄 Check my **[Resume](https://drive.google.com/file/d/1kRMZ2E2F7I4PGxCSINnmtWFLjUMmxcwz/view?usp=sharing)**
 - ⚡ Fun fact: **Code is like humor. When you have to explain it, it's bad!**
 
 <br/>
